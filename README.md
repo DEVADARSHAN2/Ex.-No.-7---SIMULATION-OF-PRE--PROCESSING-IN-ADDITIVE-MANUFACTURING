@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: DEVADARHAN A S
+### Register Number:21222211007
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
